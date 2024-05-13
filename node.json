@@ -1,0 +1,8 @@
+{
+    "name": "Volunteer Info",
+    "options": [{
+        "title": "JSON Feed",
+        "name": "feed",
+        "type": "string"
+    }]
+}
