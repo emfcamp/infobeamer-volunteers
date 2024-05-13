@@ -1,5 +1,9 @@
 {
     "name": "Infobeamer Volunteers",
     "author": "Sam W <sam@wlcx.cc>",
-    "desc": "Show volunteering info on infobeamer"
+    "desc": "Show volunteering info on infobeamer",
+    "nesting": {
+        "parents": ["scheduled-plugin", "top-level"],
+        "childs": []
+    }
 }
